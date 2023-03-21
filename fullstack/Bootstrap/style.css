@@ -1,0 +1,30 @@
+.ocultar {
+    display: none;
+}
+ 
+.mostrar {
+    display: block;
+}
+.box{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 5px;
+}
+.container{
+    background-color: grey;
+    
+}
+form{
+    display: grid;
+    justify-items: flex-start;
+
+
+    
+}
+#login{
+    width:8rem;
+}
+section{
+    width:1000px;
+}
