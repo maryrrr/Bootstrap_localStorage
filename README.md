@@ -1,5 +1,5 @@
 
-<h1 align="center"> Validacion de formulario en Bootstrap y  LocalStorage</h1>
+<h1 align="center"> Validacion de formulario en Bootstrap</h1>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
@@ -45,6 +45,7 @@
 <ul>
 <li> HTML</li>
 <li>JavaScript</li>
+<li>LocalStorage</li>
 <li>Bootstrap</li>
 <li>CSS</li>
 </ul>
