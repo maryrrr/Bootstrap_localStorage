@@ -39,7 +39,7 @@
 </p>
 
 <h2>Acceso al proyecto</h2>
-<a href=" https://github.com/maryrrr/Bootstrap_localStorage.git">Ver archivos</a>
+<a href="https://github.com/maryrrr/Bootstrap_localStorage.git"/>Ver archivo</a>
 
 <h2>Tecnologías utilizadas</h2>
 <ul>
